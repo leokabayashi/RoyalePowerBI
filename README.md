@@ -1,4 +1,5 @@
-# RoyalePowerBI
+![Logo](logo.png) 
+# RoyalePowerBI 
 
 >This is a "Fan Content", provided as-is and free of charge, as per Supercell's "Fan Content Polcy". SuperCell is not responsible for or supported this material in any way.
 
