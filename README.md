@@ -38,6 +38,8 @@ You'll need:
 1. Select the **battlelog** query in the Query pane on the left and click on **Advanced Editor** in the ribbon.
 1. Edit the second line of code replacing 
     * `<PLAYERTAG>` with your **Player Tag** you got from the game on step 2. Replace the **#** character for **%23**, so if your tag is **#1ABCDEF** then insert **%231ABCDEF**.
+    
+ > Logo icon provided by Nolan: https://icons8.com/icon/62423/clash-royale
    * `<TOKEN>` for your token you got on step 1. It is a long string of characters. There should be a space between the word **Bearer** and your token.
 1. Click **Done** and then **Close and Apply** in the Ribbon.
 1. Your report should be ready, click **Refresh Now** to confirm you have the lastest data.
