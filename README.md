@@ -29,6 +29,12 @@ You'll need:
      * Click "Create Key" and copy it, you will need it later to setup the connection
 1. Get you **Player Tag** in-game, right below your alias
 
-    ![Step 1](/images/image2.jpg)
+    ![Step 2](/images/image2.jpg)
 1. Download the **Power BI** template file named _Royale-PowerBi.pbix_ and open it.
-1. In Power BI Desktop click on **Edit Queries** button located in the Ribbon
+1. In Power BI Desktop click on **Edit Queries** button located in the Ribbon.
+1. Select the **battlelog** query in the Query pane on the left and click on **Advanced Editor** in the ribbon.
+1. Edit the second line of code replacing 
+    * `<PLAYERTAG>` with your **Player Tag** you got from the game on step 2. Replace the **#** character for **%23**, so if your tag is **#1ABCDEF** then insert **%231ABCDEF**.
+   * `<TOKEN>` for your token you got on step 1. It is a long string of characters. There should be a space between **Bearer** and your token.
+1. Click **Done** and then **Close and Apply** in the Ribbon.
+1. Your report should be ready, click **Refresh Now** to confirm you have the lastest data.
