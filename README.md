@@ -18,8 +18,6 @@ You'll need:
 * Your **Player Tag** and/or **Clan Tag**
     * Player Tag is the code right below your Clash Royale alias in-game (see below)
 
-    
-
 ## Instructions
 1. Get your Acess _Token_ on Clashroyale developer website
     * Click here (https://developer.clashroyale.com) and register
@@ -41,5 +39,8 @@ You'll need:
    * `<TOKEN>` for your token you got on step 1. It is a long string of characters. There should be a space between the word **Bearer** and your token.
 1. Click **Done** and then **Close and Apply** in the Ribbon.
 1. Your report should be ready, click **Refresh Now** to confirm you have the lastest data.
+
+### Sample Report
+![Report Sample](/images/image3.JPG)
 
  > Logo icon provided by Nolan: https://icons8.com/icon/62423/clash-royale
