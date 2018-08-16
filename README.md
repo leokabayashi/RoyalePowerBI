@@ -1,7 +1,7 @@
 ![Logo](logo.png) 
 # RoyalePowerBI 
 
->This is a "Fan Content", provided as-is and free of charge, as per Supercell's "Fan Content Polcy". SuperCell is not responsible for or supported this material in any way.
+>This is a "Fan Content", provided as-is and free of charge, as per Supercell's "Fan Content Policy". SuperCell is not responsible for or supported the development of this asset in any way.
 
 ## Objectives
 This is intended for PowerBI Beginners willing to use the recently released (August 15th 2018) official Clash Royale® API (https://twitter.com/ClashRoyale/status/1029741854529658880).
@@ -20,7 +20,7 @@ You'll need:
 
 ## Instructions
 1. Get your Acess _Token_ on Clashroyale developer website
-    * Click here (https://developer.clashroyale.com) and register
+    * Click [here](https://developer.clashroyale.com) and register
     * Open the menu on top-right and go to "My Account"
     
     ![Step 1](/images/image1.JPG)
