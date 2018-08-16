@@ -3,7 +3,9 @@
 >This is a "Fan Content", provided as-is and free of charge, as per Supercell's "Fan Content Polcy". SuperCell is not responsible for or supported this material in any way.
 
 ## Objectives
-This is intended for PowerBI Beginners willinig to use the recently released (August 15th 2018) official Clash Royale® API (https://twitter.com/ClashRoyale/status/1029741854529658880).
+This is intended for PowerBI Beginners willing to use the recently released (August 15th 2018) official Clash Royale® API (https://twitter.com/ClashRoyale/status/1029741854529658880).
+
+It's a mini-tutorial with sample Power BI Report included.
 
 This will be improved overtime, feedback and community improvements are welcome. This first release connects to a single data source, but it's easy to add data from other API endpoints provided by SuperCell®.
 
